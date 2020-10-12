@@ -9,6 +9,10 @@
       "description": "The webhook url from your Discord channel for Bugsnag messages",
       "required": false
     },
+    "PORT": {
+      "description": "The default port is 11337",
+      "required": false
+    },
     "BUDDYBUILD_WEBHOOK": {
       "description": "The webhook url from your Discord channel for Buddybuild messages",
       "required": false
